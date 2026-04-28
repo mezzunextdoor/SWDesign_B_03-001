@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class 고객정보 {
         -주민번호:String
