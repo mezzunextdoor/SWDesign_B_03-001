@@ -6,7 +6,7 @@ classDiagram
         +고객등록(주민번호:String, 성명:String)boolean
         +고객수정(주민번호:String, 성명:String)boolean
         +고객삭제(주민번호:String)boolean
-        +고객조회(주민번호:String)boolean
+        +고객조회(주민번호:String)user
     }
 
     class 주택정보 {
